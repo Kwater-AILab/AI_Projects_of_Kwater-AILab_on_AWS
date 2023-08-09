@@ -19,4 +19,4 @@
 ### 1. Project-1: Algae Detection using Sentinel-2 Satellite images on AWS
  - (Solution 개요) 
  - (개발 GitHub정보)
- - (클라우드 서비스) https://github.com/Kwater-AILab/algae_satellite_aws/edit/main/README.md
+ - (클라우드 서비스) https://github.com/Kwater-AILab/algae_satellite_aws
