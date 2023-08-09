@@ -1,6 +1,6 @@
 ### AI Projects of Kwater-AILab on AWS
 
-### :nerd_face: 본 GitHub은 K-water AI-Lab에서 개발한 다양한 AI Solutions을 Cloud서비스를 통해서 공유하기 위한 곳입니다.
+#### :nerd_face: 본 GitHub은 K-water AI-Lab에서 개발한 다양한 AI Solutions을 Cloud서비스를 통해서 공유하기 위한 곳입니다.
 
 ### 1) 절차 안내 🔭 
 #### A. 👋 아래 K-water AILab에서 개발한 Solution을 이용하고 싶을 경우
