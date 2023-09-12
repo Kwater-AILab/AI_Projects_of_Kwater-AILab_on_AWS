@@ -25,7 +25,7 @@
  - (개발 GitHub정보) https://github.com/Kwater-AILab/algae_monitoring
  - (클라우드 서비스) :thinking: https://github.com/Kwater-AILab/algae_satellite_aws
 
-#### 2. Project-2: 동파분석(Water Supply Pipe Fre on AWS
- - (Solution 개요) 본 AI-Solution은 Sentinel-2 위성데이터와 영주댐 녹조관련 관측자료를 이용하여 ML분석을 할 수 있는 AI Solution
- - (개발 GitHub정보) https://github.com/Kwater-AILab/algae_monitoring
- - (클라우드 서비스) :thinking: https://github.com/Kwater-AILab/algae_satellite_aws
+#### 2. Project-2: 동파(Water Supply Pipe Freezing) Analysis on AWS
+ - (Solution 개요) 본 AI-Solution은 다양한 영향변수를 활용하여 상수도관의 동파를 예측하는 AI Solution
+ - (개발 GitHub정보) [https://github.com/Kwater-AILab/algae_monitoring](https://github.com/Kwater-AILab/pipe_winter)
+ - (클라우드 서비스) :thinking: https://github.com/Kwater-AILab/pipe_freezing_aws
