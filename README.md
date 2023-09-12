@@ -3,8 +3,8 @@
 #### :nerd_face: 본 GitHub은 K-water AI-Lab에서 개발한 다양한 AI Solutions을 Cloud서비스를 통해서 공유하기 위한 곳입니다.
 
 ### 1) 절차 안내 🔭 
-#### A. 👋 아래 K-water AILab에서 개발한 Solution을 이용하고 싶을 경우
- 1. 아래 K-water AILab에서 개발한 Solutions 중 이용하고자 하는 Solution을 정한다.
+#### A. 👋 아래 "2) K-water AI-Lab에서 개발한 AI-Solutions" 리스트 중에서 이용하고 싶을 경우
+ 1. "2) K-water AI-Lab에서 개발한 AI-Solutions" 리스트 중 이용하고자 하는 Solution을 정한다.
  2. K-water AI-Lab의 최영돈(choiyd1115@kwater.or.kr) 또는 이소령(wjelly@kwater.or.kr)에게 아래의 정보와 함께 이용하고자 하는 Solution을 요청을 한다.
     - 목적, 이용하고자 하는 Solution, 이용자 이름 및 소속, GitHub ID 및 GitHub에 등록된 이용자 이메일주소, 사용기간에 대한 정보를 이메일로 송부 
  3. K-water AI-Lab에서 검토 후 승인: 개별 AI 서비스별 GitHub의 이용권한을 부여
